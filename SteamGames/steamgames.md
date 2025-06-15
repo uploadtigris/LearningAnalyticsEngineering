@@ -11,7 +11,7 @@ This project seeks to answer core questions about the PC gaming market, with a s
 
 ### Dataset (API)
 [SteamSpy](https://steamspy.com/api.php)\
-While Steam provides an official API, that environment is purpose built for development. The SteamSpy API is built for analytics an better fits my usecase.
+While Steam provides an official API, that environment is purpose built for development. The SteamSpy API is built for analytics and better fits my usecase.
 
 ### Process
 1. **Extract** ~ Pull data from API into a PostgreSQL database
