@@ -9,6 +9,11 @@ This project seeks to answer core questions about the PC gaming market, with a s
 - **Genre Dominance:** Which genres (e.g., "Indie," "RPG," "Strategy") are most consistently represented in the top 100 selling games over time?
 - **Sentiment & Success:** How do user review scores (specifically the ratio of Positive to Negative reviews) affect a game's long-term sales rank and player retention?
 
+other questions
+- how are title tags associated with price
+- how are tags associated with player count
+
+
 ### Dataset (API)
 [SteamSpy](https://steamspy.com/api.php)\
 While Steam provides an official API, that environment is purpose built for development. The SteamSpy API is built for analytics and better fits my usecase.
