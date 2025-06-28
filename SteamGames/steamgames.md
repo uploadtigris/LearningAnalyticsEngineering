@@ -14,7 +14,7 @@ This project seeks to answer core questions about the PC gaming market, with a s
 While Steam provides an official API, that environment is purpose built for development. The SteamSpy API is built for analytics and better fits my usecase.
 
 ### Process
-1. **Extract** ~ Pull data from API into a PostgreSQL database
+1. **Extract** ~ Pull data from API into a PostgreSQL database (Elapsed~ Start: 11:20:00am 6/25/25)
 2. **Transform** ~ Filtering, Sorting, and Aggregating the data into an organized format for easy analysis.
 3. **Load** ~ Once the data is prepared, I will bring the data into a Cloud Data Warehouse leveraging Google BigQuery.
 4. **Analysis** ~ I will use Python to make some simple visualizations in my JupyterNotebook to understand how the data fits the research question.
